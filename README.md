@@ -5,3 +5,4 @@ This repository contains the code for Dogs Vs Cats Image Classification Deep Lea
 - This model can be used to classify images of dogs and cats.
 - This model is created using Tensorflow.
 - This model is an example of how to use Tensorflow for image classification.
+- This model is an example of CNN model.
